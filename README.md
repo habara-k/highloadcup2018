@@ -15,4 +15,4 @@ $ docker run --rm --name app -p 8080:80 -v $PWD:/go/src/github.com/habara-k/high
 
 3. Access http://localhost:8080 from browser
 
-4. edit main.go (updated automatically by [realize](https://github.com/oxequa/realize))
+4. Edit main.go (updated automatically by [realize](https://github.com/oxequa/realize))
