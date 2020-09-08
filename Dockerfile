@@ -5,6 +5,7 @@ RUN apt-get install -y redis-server supervisor
 
 RUN go get github.com/go-redis/redis
 RUN go get github.com/oxequa/realize
+RUN go get github.com/gin-gonic/gin
 
 WORKDIR /go/src/github.com/habara-k/highloadcup2018
 
