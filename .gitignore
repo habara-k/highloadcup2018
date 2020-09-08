@@ -1,3 +1,5 @@
 .idea/
 supervisord.log
+supervisord.pid
+dump.rdb
 
